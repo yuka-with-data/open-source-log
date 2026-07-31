@@ -1,7 +1,9 @@
 # 📝 Open Source Journey Log
+
 This repository is a personal log where I document my journey in [one-commit-a-day](https://github.com/yuka-with-data/one-commit-a-day).
 
-## 📌 What’s inside:
+## 📌 What’s inside
+
 - Daily / monthly contribution logs
 - Reflections and lessons learned
 - Notes from real interactions (issues, PRs, discussions)
