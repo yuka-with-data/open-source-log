@@ -1,6 +1,6 @@
 # 6-Month Reflection
 
-## Six months of One Commit a Day
+## 6 months of One Commit a Day
 
 * I’ve learned and grown a lot through open source over the past six months.
 * I’ve contributed to projects ranging from small personal repositories to larger OSS projects, while also building and maintaining my own projects.
@@ -10,7 +10,7 @@
 
 ## Looking ahead: the next 6 months
 
-My goal for the next six months is to get a foothold in a larger, active open-source project where I can contribute and hopefully become involved for the long term.
+My goal for the next 6 months is to get a foothold in a larger, active open-source project where I can contribute and hopefully become involved for the long term.
 
 At the same time, I want to keep developing my own projects toward something more production-ready, whether that means a usable system, service, or application.
 
